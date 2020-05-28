@@ -1,2 +1,3 @@
-# coulomb-law
-Created with CodeSandbox
+# Coulomb's law
+
+利用库伦定理，同性相斥，实现原子随机跳动可视化
